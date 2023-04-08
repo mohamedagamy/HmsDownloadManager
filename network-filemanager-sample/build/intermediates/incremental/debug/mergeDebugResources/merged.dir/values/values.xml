@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="huawei_module_network_services">
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">NetworkFilemanager</string>
+    <string name="filepath1">/sdcard/tmpuploadfile/filetxt</string>
+    <string name="filepath2">/sdcard/tmpuploadfile/filelog</string>
+    <string name="networkkit_httpdns_domain">https://httpdns.huaweicloud.com</string>
+    <string name="spec_ip_0">0.0.0.0</string>
+    <string name="spec_ip_1">127.0.0.1</string>
+    <string name="spec_ip_2">255.255.255.255</string>
+</resources>

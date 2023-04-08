@@ -1,0 +1,25 @@
+com.huawei.hms.network.filemanager.sample
+array huawei_module_network_services
+color black
+color purple_200
+color purple_500
+color purple_700
+color teal_200
+color teal_700
+color white
+id bt_cancelUpload
+id bt_download
+id bt_download_cancel
+id bt_download_pause
+id bt_download_resume
+id bt_uploadForPost
+id bt_uploadForPut
+id tv_info
+layout activity_main
+string app_name
+string filepath1
+string filepath2
+string networkkit_httpdns_domain
+string spec_ip_0
+string spec_ip_1
+string spec_ip_2

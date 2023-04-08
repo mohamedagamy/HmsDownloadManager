@@ -1,0 +1,25 @@
+R_DEF: Internal format may change without notice
+local
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color networkkitsample_primary
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btn_httpclient_enqueue
+id btn_httpclient_execute
+id btn_restclient_enqueue
+id btn_restclient_execute
+id call_text
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string httpEnqueue
+string httpExecute
+string restClientEnqueue
+string restClientExecute
+style AppTheme
+style NetworkKitDemo.TextAppearance.Title
+style NetworkKitDemo.TextAppearance.Title.Inverse
+xml network_security_config

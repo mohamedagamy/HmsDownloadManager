@@ -1,0 +1,202 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+MERGED from [com.huawei.hms:filemanager:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d810c8c091a96faa27ce97424802f44d\transformed\jetified-filemanager-6.0.7.300\AndroidManifest.xml:2:1-13:12
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:2:1-16:12
+MERGED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:3:1-32:12
+MERGED from [com.huawei.android.hms:security-encrypt:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b0a950bad5b2d7edb70356905bf8bce6\transformed\jetified-security-encrypt-1.1.5.308\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:network-grs:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d68fd1c285f7fe24a6ecd573f36250fc\transformed\jetified-network-grs-6.0.7.300\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\342e36528c36426e71429630b43a7518\transformed\jetified-security-ssl-1.1.5.308\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.hms:log:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\8c8136046f62271417a77028d10f72e0\transformed\jetified-log-5.1.0.300\AndroidManifest.xml:2:1-14:12
+MERGED from [com.huawei.hms:hatool:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\af330ee5852086337faa9b352f12d2e8\transformed\jetified-hatool-5.1.0.300\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:3:1-22:12
+MERGED from [com.huawei.hms:network-base:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\40dd6e4efc4bc650fa7cd5592fd749a8\transformed\jetified-network-base-6.0.7.300\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.android.hms:security-intent:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\444a9a389117fcb3736807bb6316ecfc\transformed\jetified-security-intent-1.1.5.308\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.hms:network-framework-compat:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\56788b62334a93526aa69f6a89525e70\transformed\jetified-network-framework-compat-6.0.7.300\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.android.hms:security-base:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1d39e36d363e85954afd5e40d064e718\transformed\jetified-security-base-1.1.5.308\AndroidManifest.xml:2:1-9:12
+MERGED from [com.huawei.hms:network-common:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\55fbde8879e94d03d84e3d47423d4ddb\transformed\jetified-network-common-6.0.7.300\AndroidManifest.xml:2:1-11:12
+MERGED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:2:1-26:12
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+	package
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:3:5-56
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:1-23:12
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:4:5-66
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:10:5-67
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:5:5-81
+MERGED from [com.huawei.hms:log:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\8c8136046f62271417a77028d10f72e0\transformed\jetified-log-5.1.0.300\AndroidManifest.xml:10:5-81
+MERGED from [com.huawei.hms:log:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\8c8136046f62271417a77028d10f72e0\transformed\jetified-log-5.1.0.300\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.huawei.hms:filemanager:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d810c8c091a96faa27ce97424802f44d\transformed\jetified-filemanager-6.0.7.300\AndroidManifest.xml:11:5-79
+MERGED from [com.huawei.hms:filemanager:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d810c8c091a96faa27ce97424802f44d\transformed\jetified-filemanager-6.0.7.300\AndroidManifest.xml:11:5-79
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:12:5-79
+MERGED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:8:5-21:19
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:14:5-20
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:14:5-20
+MERGED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:14:5-30:19
+MERGED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:14:5-30:19
+MERGED from [com.huawei.hms:log:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\8c8136046f62271417a77028d10f72e0\transformed\jetified-log-5.1.0.300\AndroidManifest.xml:12:5-20
+MERGED from [com.huawei.hms:log:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\8c8136046f62271417a77028d10f72e0\transformed\jetified-log-5.1.0.300\AndroidManifest.xml:12:5-20
+MERGED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:14:5-20:19
+MERGED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:14:5-20:19
+MERGED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:17:5-24:19
+MERGED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:17:5-24:19
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:11:9-52
+	android:supportsRtl
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:9:9-41
+	android:usesCleartextTraffic
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:10:9-44
+activity#com.huawei.hms.network.filemanager.sample.MainActivity
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:13:9-20:20
+	android:exported
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:13:19-88
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml:18:27-74
+uses-sdk
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+MERGED from [com.huawei.hms:filemanager:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d810c8c091a96faa27ce97424802f44d\transformed\jetified-filemanager-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:filemanager:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d810c8c091a96faa27ce97424802f44d\transformed\jetified-filemanager-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:stats:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b1187e872cffa77d5e963eb17e1b4bbf\transformed\jetified-stats-5.1.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:8:5-10:41
+MERGED from [com.huawei.android.hms:security-encrypt:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b0a950bad5b2d7edb70356905bf8bce6\transformed\jetified-security-encrypt-1.1.5.308\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:security-encrypt:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b0a950bad5b2d7edb70356905bf8bce6\transformed\jetified-security-encrypt-1.1.5.308\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-grs:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d68fd1c285f7fe24a6ecd573f36250fc\transformed\jetified-network-grs-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-grs:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\d68fd1c285f7fe24a6ecd573f36250fc\transformed\jetified-network-grs-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\342e36528c36426e71429630b43a7518\transformed\jetified-security-ssl-1.1.5.308\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-ssl:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\342e36528c36426e71429630b43a7518\transformed\jetified-security-ssl-1.1.5.308\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.hms:log:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\8c8136046f62271417a77028d10f72e0\transformed\jetified-log-5.1.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:log:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\8c8136046f62271417a77028d10f72e0\transformed\jetified-log-5.1.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:hatool:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\af330ee5852086337faa9b352f12d2e8\transformed\jetified-hatool-5.1.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:hatool:5.1.0.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\af330ee5852086337faa9b352f12d2e8\transformed\jetified-hatool-5.1.0.300\AndroidManifest.xml:5:5-7:41
+MERGED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:9:5-12:66
+MERGED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:9:5-12:66
+MERGED from [com.huawei.hms:network-base:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\40dd6e4efc4bc650fa7cd5592fd749a8\transformed\jetified-network-base-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-base:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\40dd6e4efc4bc650fa7cd5592fd749a8\transformed\jetified-network-base-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:security-intent:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\444a9a389117fcb3736807bb6316ecfc\transformed\jetified-security-intent-1.1.5.308\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-intent:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\444a9a389117fcb3736807bb6316ecfc\transformed\jetified-security-intent-1.1.5.308\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.hms:network-framework-compat:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\56788b62334a93526aa69f6a89525e70\transformed\jetified-network-framework-compat-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-framework-compat:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\56788b62334a93526aa69f6a89525e70\transformed\jetified-network-framework-compat-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.android.hms:security-base:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1d39e36d363e85954afd5e40d064e718\transformed\jetified-security-base-1.1.5.308\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.android.hms:security-base:1.1.5.308] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1d39e36d363e85954afd5e40d064e718\transformed\jetified-security-base-1.1.5.308\AndroidManifest.xml:7:5-43
+MERGED from [com.huawei.hms:network-common:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\55fbde8879e94d03d84e3d47423d4ddb\transformed\jetified-network-common-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:network-common:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\55fbde8879e94d03d84e3d47423d4ddb\transformed\jetified-network-common-6.0.7.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:7:5-9:41
+MERGED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:7:5-9:41
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:12:9-63
+	android:targetSdkVersion
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\AndroidManifest.xml
+meta-data#networkservice_netdiag
+ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:17:9-19:82
+	android:value
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:19:13-79
+	android:name
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:18:13-50
+meta-data#networkservice_ai
+ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:21:9-23:73
+	android:value
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:23:13-70
+	android:name
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:22:13-45
+meta-data#networkservice_config
+ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:24:9-26:77
+	android:value
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:26:13-74
+	android:name
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:25:13-49
+meta-data#networkservice_dns
+ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:27:9-29:69
+	android:value
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:29:13-66
+	android:name
+		ADDED from [com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:28:13-46
+meta-data#com.huawei.hms.client.service.name:network-api
+ADDED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:17:9-19:53
+	android:value
+		ADDED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:19:13-50
+	android:name
+		ADDED from [com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:18:13-74
+queries
+ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:11:5-15:15
+package#com.huawei.hff
+ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:12:9-50
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:12:18-47
+package#com.huawei.hms
+ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:13:9-50
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:13:18-47
+package#com.huawei.hwid
+ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:14:9-51
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:14:18-48
+meta-data#com.huawei.hms.client.service.name:dynamic-api
+ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:18:9-20:54
+	android:value
+		ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:20:13-51
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:19:13-74
+meta-data#com.huawei.hms.min_api_level:dynamic-api:huawei_module_dynamicloader
+ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:21:9-23:33
+	android:value
+		ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:23:13-30
+	android:name
+		ADDED from [com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:22:13-96

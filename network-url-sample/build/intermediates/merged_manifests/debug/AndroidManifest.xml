@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.huawei.hms.network.url.sample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="33" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <permission
+        android:name="com.huawei.hms.network.url.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="com.huawei.hms.network.url.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+
+    <queries>
+        <package android:name="com.huawei.hff" />
+        <package android:name="com.huawei.hms" />
+        <package android:name="com.huawei.hwid" />
+    </queries>
+
+    <application
+        android:name="com.huawei.hms.network.url.sample.NetworkKitApp"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:label="@string/app_name"
+        android:networkSecurityConfig="@xml/network_security_config"
+        android:supportsRtl="true"
+        android:testOnly="true" >
+        <activity
+            android:name="com.huawei.hms.network.url.sample.MainActivity"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- 服务meta-data配置 -->
+        <meta-data
+            android:name="networkservice_netdiag"
+            android:value="com.huawei.hms.network.netdiag.NetDiagnosisService" /> <!-- 服务meta-data配置 -->
+        <meta-data
+            android:name="networkservice_ai"
+            android:value="com.huawei.hms.network.ai.AIPolicyService" /> <!-- 服务meta-data配置 -->
+        <meta-data
+            android:name="networkservice_config"
+            android:value="com.huawei.hms.network.conf.api.ConfigService" /> <!-- 服务meta-data配置 -->
+        <meta-data
+            android:name="networkservice_dns"
+            android:value="com.huawei.hms.network.dns.DNSService" /> <!-- 声明kit sdk服务名和版本号apiLevel -->
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:network-api"
+            android:value="network-api:6.0.7.300" />
+
+        <provider
+            android:name="androidx.startup.InitializationProvider"
+            android:authorities="com.huawei.hms.network.url.sample.androidx-startup"
+            android:exported="false" >
+            <meta-data
+                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+                android:value="androidx.startup" />
+            <meta-data
+                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+                android:value="androidx.startup" />
+        </provider>
+
+        <meta-data
+            android:name="com.huawei.hms.client.service.name:dynamic-api"
+            android:value="dynamic-api:1.0.20.300" />
+        <meta-data
+            android:name="com.huawei.hms.min_api_level:dynamic-api:huawei_module_dynamicloader"
+            android:value="8" />
+    </application>
+
+</manifest>

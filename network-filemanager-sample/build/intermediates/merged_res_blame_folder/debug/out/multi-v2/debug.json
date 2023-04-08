@@ -1,0 +1,71 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.huawei.hms.network.filemanager.sample.network-filemanager-sample-merged_res-7:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\MohamedElagamy\\AndroidStudioProjects\\HmsWebview\\network-filemanager-sample\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16,73,141",
+                        "endColumns": "55,67,67",
+                        "endOffsets": "67,136,204"
+                    },
+                    "to": {
+                        "startLines": "11,12,13",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "447,503,571",
+                        "endColumns": "55,67,67",
+                        "endOffsets": "498,566,634"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MohamedElagamy\\AndroidStudioProjects\\HmsWebview\\network-filemanager-sample\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "132,174,221,268,315,360,405",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "169,216,263,310,355,400,442"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MohamedElagamy\\.gradle\\caches\\transforms-3\\b59aab1e241654db9b0b9db06855cab8\\transformed\\jetified-network-embedded-6.0.7.300\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,141,187,235",
+                        "endColumns": "85,45,47,53",
+                        "endOffsets": "136,182,230,284"
+                    },
+                    "to": {
+                        "startLines": "14,15,16,17",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "639,725,771,819",
+                        "endColumns": "85,45,47,53",
+                        "endOffsets": "720,766,814,868"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\MohamedElagamy\\.gradle\\caches\\transforms-3\\1a99acc60635e5a8cb20398a28998b09\\transformed\\jetified-network-api-6.0.7.300\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "19",
+                        "endOffsets": "127"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,148 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.huawei.hms.network.url.sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:4:5-66
+11-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:4:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:5:5-78
+12-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:5:22-76
+13    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+13-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:6:5-75
+13-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:6:22-73
+14
+15    <permission
+15-->[androidx.core:core:1.9.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+16        android:name="com.huawei.hms.network.url.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+16-->[androidx.core:core:1.9.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+17        android:protectionLevel="signature" />
+17-->[androidx.core:core:1.9.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+18
+19    <uses-permission android:name="com.huawei.hms.network.url.sample.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+19-->[androidx.core:core:1.9.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+19-->[androidx.core:core:1.9.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+20
+21    <queries>
+21-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:11:5-15:15
+22        <package android:name="com.huawei.hff" />
+22-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:12:9-50
+22-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:12:18-47
+23        <package android:name="com.huawei.hms" />
+23-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:13:9-50
+23-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:13:18-47
+24        <package android:name="com.huawei.hwid" />
+24-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:14:9-51
+24-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:14:18-48
+25    </queries>
+26
+27    <application
+27-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:8:5-22:19
+28        android:name="com.huawei.hms.network.url.sample.NetworkKitApp"
+28-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:9:9-71
+29        android:allowBackup="true"
+29-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:11:9-35
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.9.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\a4522fe6b275a4534bfc0eadc1a8e0f8\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+31        android:debuggable="true"
+32        android:label="@string/app_name"
+32-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:10:9-41
+33        android:networkSecurityConfig="@xml/network_security_config"
+33-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:13:9-69
+34        android:supportsRtl="true"
+34-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:12:9-35
+35        android:testOnly="true" >
+36        <activity
+36-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:14:9-21:20
+37            android:name="com.huawei.hms.network.url.sample.MainActivity"
+37-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:14:19-80
+38            android:exported="true" >
+38-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:15:13-36
+39            <intent-filter>
+39-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:16:13-20:29
+40                <action android:name="android.intent.action.MAIN" />
+40-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:17:17-69
+40-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:17:25-66
+41
+42                <category android:name="android.intent.category.LAUNCHER" />
+42-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:19:17-77
+42-->C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-url-sample\src\main\AndroidManifest.xml:19:27-74
+43            </intent-filter>
+44        </activity>
+45        <!-- 服务meta-data配置 -->
+46        <meta-data
+46-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:17:9-19:82
+47            android:name="networkservice_netdiag"
+47-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:18:13-50
+48            android:value="com.huawei.hms.network.netdiag.NetDiagnosisService" /> <!-- 服务meta-data配置 -->
+48-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:19:13-79
+49        <meta-data
+49-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:21:9-23:73
+50            android:name="networkservice_ai"
+50-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:22:13-45
+51            android:value="com.huawei.hms.network.ai.AIPolicyService" /> <!-- 服务meta-data配置 -->
+51-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:23:13-70
+52        <meta-data
+52-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:24:9-26:77
+53            android:name="networkservice_config"
+53-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:25:13-49
+54            android:value="com.huawei.hms.network.conf.api.ConfigService" /> <!-- 服务meta-data配置 -->
+54-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:26:13-74
+55        <meta-data
+55-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:27:9-29:69
+56            android:name="networkservice_dns"
+56-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:28:13-46
+57            android:value="com.huawei.hms.network.dns.DNSService" /> <!-- 声明kit sdk服务名和版本号apiLevel -->
+57-->[com.huawei.hms:network-embedded:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\AndroidManifest.xml:29:13-66
+58        <meta-data
+58-->[com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:17:9-19:53
+59            android:name="com.huawei.hms.client.service.name:network-api"
+59-->[com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:18:13-74
+60            android:value="network-api:6.0.7.300" />
+60-->[com.huawei.hms:network-api:6.0.7.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\AndroidManifest.xml:19:13-50
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+64            android:authorities="com.huawei.hms.network.url.sample.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b02cccb891faf7e7db9819a946ecb854\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\805cfbbd3f7ff918dca02e959a4440ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\805cfbbd3f7ff918dca02e959a4440ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\805cfbbd3f7ff918dca02e959a4440ad\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+72        </provider>
+73
+74        <meta-data
+74-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:18:9-20:54
+75            android:name="com.huawei.hms.client.service.name:dynamic-api"
+75-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:19:13-74
+76            android:value="dynamic-api:1.0.20.300" />
+76-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:20:13-51
+77        <meta-data
+77-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:21:9-23:33
+78            android:name="com.huawei.hms.min_api_level:dynamic-api:huawei_module_dynamicloader"
+78-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:22:13-96
+79            android:value="8" />
+79-->[com.huawei.hms:dynamic-api:1.0.20.300] C:\Users\MohamedElagamy\.gradle\caches\transforms-3\dfe123b105212db109b48e4e5138111a\transformed\jetified-dynamic-api-1.0.20.300\AndroidManifest.xml:23:13-30
+80    </application>
+81
+82</manifest>

@@ -1,0 +1,10 @@
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-jetified-network-api-6.0.7.300-0 C:\Users\MohamedElagamy\.gradle\caches\transforms-3\1a99acc60635e5a8cb20398a28998b09\transformed\jetified-network-api-6.0.7.300\res
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-jetified-network-embedded-6.0.7.300-1 C:\Users\MohamedElagamy\.gradle\caches\transforms-3\b59aab1e241654db9b0b9db06855cab8\transformed\jetified-network-embedded-6.0.7.300\res
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-pngs-2 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\build\generated\res\pngs\debug
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-resValues-3 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\build\generated\res\resValues\debug
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-rs-4 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\build\generated\res\rs\debug
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-packageDebugResources-5 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-packageDebugResources-6 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-merged_res-7 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\build\intermediates\merged_res\debug
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-debug-8 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\debug\res
+com.huawei.hms.network.filemanager.sample.network-filemanager-sample-main-9 C:\Users\MohamedElagamy\AndroidStudioProjects\HmsWebview\network-filemanager-sample\src\main\res

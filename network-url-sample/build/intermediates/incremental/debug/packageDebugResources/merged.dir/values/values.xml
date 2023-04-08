@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="networkkitsample_primary">#00bad2</color>
+    <string name="app_name">NetworkUrl</string>
+    <string name="httpEnqueue">HTTPCLIENT ASYNC REQUEST</string>
+    <string name="httpExecute">HTTPCLIENT SYNC REQUEST</string>
+    <string name="restClientEnqueue">RESTCLIENT ANNOTATION ASYNC REQUEST</string>
+    <string name="restClientExecute">RESTCLIENT ANNOTATION SYNC REQUEST</string>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="NetworkKitDemo.TextAppearance.Title" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@color/networkkitsample_primary</item>
+    </style>
+    <style name="NetworkKitDemo.TextAppearance.Title.Inverse" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+</resources>
